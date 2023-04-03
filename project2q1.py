@@ -1,3 +1,6 @@
+# Vera Mensah Aborah
+# 10958719
+# BMEN
 import PySimpleGUI as sg
 import pyttsx3
 
